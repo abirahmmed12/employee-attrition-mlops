@@ -1,0 +1,261 @@
+Age,Gender,Dept,YearsAtCompany,MonthlyIncome,WorkLifeBalance,JobSatisfaction,PerformanceRating,YearsSinceLastPromotion,OverTime,DistanceFromHome,Education,MaritalStatus,Attrition
+35,Male,Sales,11,4717,3,3,3,6,No,1,3,Married,No
+36,Female,Sales,6,6652,2,4,3,0,No,11,4,Married,No
+24,Male,Research & Development,5,2774,3,3,3,1,No,18,1,Married,No
+29,Female,Finance,5,3785,1,1,3,0,No,28,4,Single,No
+51,Male,Education,1,2723,2,4,3,0,No,1,3,Married,No
+45,Male,Healthcare,6,3452,2,4,3,0,No,29,3,Single,No
+27,Male,Sales,4,3041,3,1,3,0,No,2,1,Divorced,Yes
+41,Male,Sales,5,8938,3,2,3,0,No,3,3,Divorced,No
+20,Male,Sales,2,2678,3,4,3,2,No,21,3,Single,No
+28,Female,Banking,9,7655,2,2,3,1,No,3,3,Divorced,No
+20,Female,Media,1,2600,3,1,3,0,Yes,11,3,Single,Yes
+29,Male,Human Resources,1,2804,3,2,3,0,No,6,1,Married,No
+45,Male,Research & Development,24,5210,3,1,3,9,No,7,3,Divorced,No
+49,Male,Research & Development,1,18711,4,3,3,0,No,4,2,Married,No
+18,Male,Research & Development,0,1904,3,3,3,0,No,8,1,Single,Yes
+44,Male,Finance,3,2042,4,2,3,1,No,23,3,Married,No
+18,Female,Sales,0,1200,3,3,3,0,No,10,3,Single,No
+30,Male,Research & Development,10,5126,2,4,3,3,Yes,1,1,Married,No
+33,Male,Banking,14,2028,3,2,3,2,No,21,3,Married,No
+35,Male,Sales,11,8020,2,2,3,6,No,16,3,Married,No
+29,Male,Sales,4,4649,2,3,3,0,No,2,3,Married,No
+56,Female,Finance,5,19943,3,1,3,4,No,4,4,Divorced,No
+36,Male,Finance,1,4834,2,3,3,0,No,15,3,Divorced,Yes
+27,Male,Research & Development,6,6142,3,2,4,0,Yes,4,3,Married,No
+41,Male,Sales,22,16015,3,2,3,0,No,2,4,Single,No
+33,Female,Sales,1,2851,3,3,3,0,Yes,5,3,Single,Yes
+40,Male,Research & Development,11,10322,3,4,4,11,No,20,4,Married,No
+55,Male,Media,3,4035,3,3,3,1,Yes,4,4,Married,No
+27,Female,Sales,7,9981,3,3,3,0,No,20,3,Single,No
+56,Male,Media,10,11103,2,4,3,1,No,9,3,Married,No
+26,Male,Education,3,2305,4,3,3,0,No,17,4,Married,No
+48,Male,Research & Development,1,2559,2,2,3,0,No,2,2,Single,No
+22,Male,Research & Development,2,3894,3,3,3,1,No,4,1,Single,Yes
+41,Female,Education,21,19973,3,3,4,5,No,7,1,Divorced,No
+36,Male,Research & Development,1,3688,3,4,3,0,No,18,4,Married,No
+54,Female,Healthcare,10,10739,3,3,3,0,No,17,3,Married,No
+20,Female,Sales,2,2044,2,3,3,0,No,2,3,Single,Yes
+36,Female,Education,1,3419,4,1,3,0,Yes,5,4,Married,No
+42,Female,Banking,9,2593,3,1,3,7,Yes,2,3,Divorced,No
+32,Male,Sales,10,6209,4,4,3,0,No,8,3,Married,No
+40,Male,Sales,18,10475,3,1,4,1,Yes,5,4,Married,No
+34,Male,Finance,9,4724,3,4,3,7,No,10,4,Divorced,No
+31,Male,Finance,10,4197,3,3,3,0,No,20,3,Divorced,No
+36,Male,Sales,10,7587,3,1,3,0,No,8,4,Single,No
+30,Male,Sales,3,2983,3,2,3,1,No,7,1,Single,No
+24,Female,Research & Development,6,2886,3,3,3,1,Yes,7,3,Married,Yes
+35,Male,Healthcare,1,5916,3,3,3,0,Yes,23,2,Married,Yes
+37,Female,Finance,18,3034,2,1,3,12,No,14,3,Divorced,No
+39,Male,Healthcare,10,5151,3,1,4,7,No,9,2,Married,No
+46,Female,Sales,11,18789,3,2,3,0,No,4,2,Married,No
+40,Female,Sales,5,4639,3,1,3,1,No,14,2,Married,No
+56,Male,Human Resources,7,19717,3,2,3,7,No,8,4,Single,No
+49,Male,Media,31,19502,3,3,3,0,Yes,18,4,Divorced,No
+44,Male,Sales,22,18213,3,2,3,3,No,5,3,Married,No
+53,Female,Research & Development,14,19094,2,3,3,4,No,5,3,Divorced,No
+27,Female,Research & Development,1,2341,3,1,3,0,No,2,4,Divorced,No
+50,Male,Healthcare,20,3221,3,3,3,3,Yes,28,1,Married,No
+38,Female,Sales,8,5605,3,1,4,7,Yes,7,2,Divorced,No
+50,Male,Banking,4,17639,3,3,3,0,No,2,3,Married,No
+28,Male,Media,5,2144,2,3,3,1,No,16,3,Single,No
+34,Male,Finance,5,2932,3,4,3,1,Yes,2,4,Married,No
+31,Male,Finance,5,4821,3,4,3,0,Yes,5,4,Married,No
+34,Female,Finance,1,4505,3,2,3,0,No,6,4,Divorced,No
+38,Male,Healthcare,2,2821,3,3,3,2,No,3,4,Married,No
+35,Female,Healthcare,9,5363,3,4,3,0,No,1,3,Married,No
+36,Female,Sales,9,9738,3,4,3,2,No,11,2,Married,No
+43,Male,Banking,25,14336,3,2,3,3,No,12,3,Divorced,No
+47,Female,Education,22,10333,3,2,3,14,Yes,4,3,Divorced,No
+31,Male,Media,10,5003,3,1,4,8,No,1,3,Married,No
+45,Male,Sales,10,4385,3,1,3,4,No,26,3,Married,No
+55,Male,Sales,9,5160,2,4,3,7,No,2,1,Single,Yes
+35,Female,Human Resources,9,8837,3,4,3,1,Yes,26,4,Single,No
+36,Female,Education,7,10252,3,1,4,7,Yes,1,3,Divorced,No
+31,Male,Human Resources,2,6410,3,1,3,1,No,2,3,Married,No
+33,Male,Sales,9,8380,3,3,3,0,Yes,10,5,Divorced,No
+33,Male,Research & Development,9,3055,2,2,3,1,No,4,3,Divorced,No
+40,Female,Media,1,6516,3,1,3,0,Yes,8,2,Married,No
+40,Female,Sales,11,5677,3,2,3,5,No,2,2,Married,No
+45,Male,Finance,20,13496,3,4,3,4,Yes,20,2,Married,No
+33,Female,Research & Development,9,2707,4,1,4,1,No,2,2,Married,Yes
+26,Female,Human Resources,7,2741,2,3,3,1,Yes,17,4,Divorced,Yes
+27,Male,Sales,4,4342,3,4,3,1,No,8,1,Married,No
+35,Female,Research & Development,10,2022,2,2,3,7,Yes,25,4,Divorced,Yes
+42,Male,Finance,20,10124,1,4,3,13,Yes,2,3,Married,No
+49,Female,Healthcare,26,7403,2,2,3,1,No,8,2,Married,No
+21,Male,Sales,3,2610,2,4,4,2,No,9,2,Single,No
+40,Female,Research & Development,8,4244,3,2,4,3,No,2,2,Married,No
+44,Male,Healthcare,4,2436,3,4,3,1,Yes,1,3,Single,No
+38,Male,Research & Development,3,3944,3,4,3,1,Yes,2,3,Single,No
+33,Female,Research & Development,5,6949,3,4,3,1,No,1,3,Single,No
+39,Female,Human Resources,8,6389,1,2,3,3,No,3,3,Married,No
+23,Male,Banking,4,2500,4,1,3,0,No,9,1,Married,No
+47,Male,Sales,0,2976,3,3,3,0,No,4,1,Single,No
+30,Male,Research & Development,6,2141,2,2,3,1,No,7,3,Married,No
+23,Male,Sales,1,1790,2,1,3,1,No,9,3,Married,Yes
+43,Male,Sales,25,16959,4,4,3,4,Yes,26,2,Married,No
+36,Male,Sales,10,9980,2,4,3,9,No,10,4,Single,No
+36,Male,Education,10,5810,2,4,3,1,No,4,4,Single,No
+34,Male,Banking,1,2008,3,2,3,1,No,10,3,Divorced,No
+31,Female,Sales,10,5476,3,4,3,0,No,5,4,Married,No
+34,Male,Sales,6,6274,3,4,4,1,No,2,3,Single,No
+46,Male,Human Resources,4,5021,3,2,4,0,Yes,5,2,Divorced,No
+29,Male,Research & Development,5,2703,3,2,4,0,No,2,3,Married,No
+30,Male,Banking,12,3072,3,1,3,6,No,9,3,Divorced,No
+24,Female,Sales,3,4999,2,3,4,0,No,3,2,Married,No
+36,Male,Healthcare,3,4941,3,2,4,0,No,6,2,Divorced,No
+30,Male,Healthcare,5,2097,1,4,3,1,No,3,3,Married,No
+29,Female,Education,9,4193,3,3,3,0,Yes,15,2,Single,No
+44,Female,Healthcare,8,7879,3,4,3,6,Yes,2,3,Married,No
+44,Male,Research & Development,25,19190,2,1,3,14,No,4,2,Divorced,No
+34,Male,Sales,14,9888,2,4,4,2,No,1,3,Single,No
+52,Female,Banking,5,3149,3,3,4,1,No,11,4,Married,No
+34,Female,Banking,11,5433,3,2,3,7,No,3,3,Divorced,No
+41,Male,Media,1,3072,2,1,3,0,No,19,2,Divorced,No
+31,Male,Sales,3,4233,1,1,3,1,No,13,4,Divorced,Yes
+34,Female,Education,5,6142,3,3,3,4,No,8,2,Single,No
+40,Female,Finance,20,13237,3,3,3,5,No,6,3,Single,No
+39,Female,Research & Development,21,12742,3,4,3,11,No,1,1,Married,No
+32,Female,Research & Development,10,3919,3,1,4,6,Yes,16,1,Single,Yes
+38,Female,Media,6,2468,2,2,3,0,No,2,2,Married,No
+34,Male,Finance,4,2996,3,1,3,1,No,1,4,Divorced,No
+59,Male,Banking,9,10512,2,4,3,5,No,18,4,Single,No
+25,Male,Media,7,5206,3,3,3,0,No,2,1,Divorced,No
+40,Female,Sales,5,6852,4,2,3,1,No,10,3,Divorced,No
+20,Male,Finance,1,1009,3,3,3,1,Yes,10,1,Single,Yes
+19,Female,Finance,1,1859,4,2,4,0,Yes,10,3,Single,Yes
+41,Male,Research & Development,5,2238,3,1,4,1,No,9,4,Married,No
+44,Male,Human Resources,10,5743,3,4,3,0,Yes,1,5,Married,No
+39,Male,Finance,5,5295,3,2,4,1,No,12,3,Married,No
+41,Male,Sales,2,7082,3,3,3,0,Yes,23,2,Single,No
+53,Female,Banking,3,12965,2,3,4,0,Yes,1,4,Married,No
+28,Male,Finance,1,2596,3,2,3,0,No,1,3,Divorced,Yes
+38,Female,Research & Development,1,9824,3,3,3,0,No,10,3,Married,No
+32,Male,Research & Development,1,9679,3,4,4,0,No,5,4,Single,No
+31,Female,Banking,1,1129,3,4,3,0,Yes,2,1,Divorced,No
+45,Male,Banking,9,3633,3,1,3,0,Yes,23,2,Married,No
+36,Male,Research & Development,11,7779,3,4,4,0,No,18,4,Single,No
+31,Male,Media,4,3065,4,1,3,2,Yes,3,2,Divorced,No
+39,Female,Banking,20,4553,3,3,3,11,No,2,4,Single,No
+38,Female,Research & Development,2,2288,3,4,3,2,No,9,2,Single,No
+31,Male,Sales,7,6172,2,3,3,7,Yes,6,4,Married,Yes
+29,Male,Human Resources,10,7988,2,1,3,0,No,17,3,Single,No
+50,Male,Sales,2,3875,3,2,3,2,No,8,4,Married,No
+31,Female,Media,4,3929,3,4,4,0,Yes,12,1,Married,No
+42,Male,Sales,1,18303,4,3,3,0,No,5,2,Married,No
+44,Male,Research & Development,3,2362,4,1,3,1,No,3,3,Married,Yes
+40,Female,Research & Development,20,5605,3,2,3,2,No,26,3,Divorced,No
+50,Female,Education,27,18740,2,3,3,13,Yes,7,2,Divorced,No
+33,Female,Healthcare,2,2911,2,4,3,0,No,5,4,Married,No
+34,Male,Banking,11,5957,3,1,3,5,No,2,4,Married,No
+43,Female,Finance,1,4765,4,2,4,0,No,8,3,Divorced,No
+36,Male,Healthcare,3,5347,2,3,3,0,No,26,4,Married,No
+26,Male,Research & Development,8,5472,3,4,3,1,No,2,2,Married,No
+44,Male,Research & Development,3,2818,2,4,4,0,Yes,8,4,Married,No
+31,Female,Research & Development,9,5855,1,4,3,8,Yes,12,3,Married,No
+35,Male,Finance,16,5208,3,1,3,1,No,18,5,Married,No
+46,Male,Research & Development,6,7379,2,4,3,1,No,2,4,Divorced,No
+36,Male,Sales,4,5507,1,2,3,1,No,17,2,Married,No
+26,Male,Media,1,2340,1,4,3,0,Yes,24,3,Single,Yes
+48,Male,Research & Development,22,19665,3,2,3,12,No,10,3,Married,No
+50,Female,Sales,18,6347,3,3,3,0,No,1,3,Married,No
+48,Female,Research & Development,8,2367,2,1,3,7,No,15,4,Married,No
+40,Female,Research & Development,4,3377,2,1,3,0,No,2,2,Married,No
+30,Male,Banking,11,3579,3,2,4,5,Yes,1,3,Married,No
+41,Male,Sales,9,8189,3,3,3,0,Yes,9,1,Divorced,No
+46,Male,Sales,2,7991,3,2,3,2,No,26,2,Single,No
+31,Male,Media,5,4345,3,3,3,1,No,1,4,Married,No
+50,Male,Sales,4,6796,3,3,3,1,Yes,8,2,Married,Yes
+30,Male,Education,6,9957,2,1,3,0,No,20,3,Married,No
+25,Male,Banking,2,4031,3,1,3,0,No,3,3,Married,Yes
+37,Male,Finance,0,2090,3,3,3,0,Yes,2,2,Single,Yes
+39,Male,Sales,2,4127,3,4,3,2,No,20,3,Divorced,No
+22,Female,Research & Development,3,4171,4,3,3,0,Yes,3,1,Married,Yes
+46,Male,Research & Development,9,8578,2,4,3,4,No,2,2,Divorced,No
+38,Female,Healthcare,5,3702,3,3,3,0,No,6,2,Married,No
+32,Male,Sales,2,9907,2,2,3,2,Yes,2,4,Single,Yes
+32,Male,Education,9,6162,3,4,4,7,Yes,1,3,Married,No
+31,Female,Sales,10,9852,2,3,3,9,Yes,2,4,Divorced,No
+32,Male,Sales,0,4648,4,4,3,0,No,10,4,Single,No
+44,Male,Research & Development,2,19513,4,4,3,0,Yes,3,4,Married,No
+42,Male,Education,9,4434,2,2,3,7,No,29,3,Married,No
+34,Female,Sales,4,2231,3,3,3,1,No,2,4,Married,No
+28,Male,Education,5,3201,1,2,3,0,No,2,1,Married,No
+28,Male,Banking,5,2044,4,4,3,0,No,1,3,Married,No
+49,Female,Healthcare,4,3580,3,1,3,0,No,1,3,Married,No
+30,Male,Education,10,3491,2,3,3,8,No,7,4,Divorced,No
+26,Female,Banking,2,4364,3,4,3,2,No,1,2,Divorced,No
+26,Male,Healthcare,8,2875,2,4,4,2,Yes,4,2,Single,No
+35,Female,Sales,5,2430,3,3,4,4,No,28,4,Married,No
+55,Male,Research & Development,5,19859,3,1,3,1,Yes,2,3,Married,Yes
+39,Male,Sales,8,7880,3,3,3,0,No,2,5,Single,No
+38,Male,Sales,15,4440,3,2,3,5,No,1,4,Married,No
+50,Male,Healthcare,27,17046,3,3,3,15,No,29,4,Married,No
+24,Male,Research & Development,6,3907,4,1,3,1,No,29,1,Divorced,No
+19,Female,Research & Development,1,2994,3,4,3,0,Yes,25,3,Single,No
+42,Female,Finance,12,3673,3,4,3,5,No,9,2,Single,No
+39,Female,Research & Development,1,3646,4,1,4,0,Yes,2,3,Single,Yes
+33,Male,Media,13,11691,4,3,3,3,No,7,3,Married,No
+34,Male,Healthcare,0,2979,3,4,3,0,No,3,4,Married,No
+32,Female,Media,7,5055,2,4,3,0,No,2,4,Single,No
+31,Female,Sales,2,2789,2,2,3,2,No,5,3,Divorced,No
+54,Female,Human Resources,5,17328,3,4,3,4,Yes,26,3,Single,No
+40,Male,Finance,9,3319,3,4,3,4,No,24,2,Divorced,No
+26,Male,Research & Development,7,2544,3,4,3,7,No,6,3,Married,No
+29,Female,Finance,5,2974,3,3,3,1,No,9,4,Married,No
+27,Female,Education,7,2279,2,2,3,0,No,9,3,Single,No
+29,Female,Sales,11,7918,3,4,3,4,No,1,1,Married,No
+37,Male,Research & Development,10,9434,3,3,3,7,No,3,3,Married,No
+40,Male,Research & Development,7,2741,4,4,3,3,Yes,19,2,Married,No
+31,Female,Healthcare,11,4424,3,4,4,1,No,8,4,Single,No
+49,Female,Research & Development,2,2587,2,1,3,2,Yes,16,3,Divorced,No
+45,Male,Research & Development,24,19202,3,4,3,1,No,1,3,Married,No
+43,Male,Education,14,17603,3,3,4,6,No,15,2,Married,No
+45,Female,Banking,1,2274,3,3,3,0,No,2,3,Single,No
+27,Female,Education,5,2187,2,3,3,0,No,6,4,Divorced,No
+38,Female,Research & Development,10,12061,3,2,3,0,No,25,2,Married,No
+30,Male,Sales,4,4115,3,1,3,0,No,29,4,Divorced,No
+21,Male,Sales,3,3447,3,3,3,1,No,22,1,Single,No
+35,Male,Healthcare,6,2859,3,3,3,0,No,1,3,Single,No
+45,Male,Research & Development,3,9380,4,4,3,1,Yes,29,3,Married,No
+42,Male,Sales,9,6825,3,2,3,4,No,8,4,Married,No
+37,Male,Healthcare,1,10048,3,3,3,0,No,10,3,Divorced,Yes
+24,Male,Media,5,3162,2,4,3,3,No,4,1,Married,No
+20,Female,Healthcare,1,2926,3,4,3,1,Yes,6,3,Single,Yes
+40,Male,Sales,1,10932,3,1,3,0,No,28,3,Divorced,No
+29,Male,Banking,5,5373,2,1,3,0,No,1,3,Married,No
+46,Female,Sales,8,7314,3,2,4,0,No,10,3,Married,Yes
+37,Female,Education,14,6474,2,4,3,3,No,1,3,Married,No
+31,Female,Human Resources,3,2109,3,2,3,0,No,8,2,Single,No
+45,Female,Sales,9,17650,4,4,3,1,No,11,2,Married,No
+45,Male,Research & Development,10,3697,3,4,3,9,No,8,4,Married,No
+58,Female,Research & Development,9,19701,3,1,4,1,Yes,1,3,Married,No
+36,Male,Sales,7,5079,3,4,3,0,No,8,4,Divorced,No
+29,Female,Research & Development,4,2532,3,4,3,0,No,7,1,Divorced,No
+58,Male,Media,31,19246,3,2,3,13,Yes,2,4,Single,Yes
+40,Male,Sales,12,10855,2,4,3,2,No,4,4,Married,No
+45,Female,Sales,1,4286,3,1,3,0,No,26,4,Married,Yes
+32,Male,Healthcare,6,2176,3,1,3,0,No,2,1,Single,No
+31,Male,Sales,6,6582,4,4,3,0,Yes,2,1,Single,No
+37,Male,Education,7,5974,3,1,3,6,Yes,6,3,Divorced,No
+34,Female,Human Resources,3,9950,3,1,3,0,Yes,23,3,Divorced,Yes
+36,Male,Media,3,5562,3,1,3,0,Yes,6,4,Married,No
+48,Male,Education,0,2259,2,3,3,0,No,20,4,Married,No
+33,Female,Research & Development,8,2756,3,2,3,1,No,14,3,Married,No
+35,Male,Research & Development,3,3506,3,3,3,2,Yes,6,1,Married,No
+60,Female,Research & Development,29,19566,1,1,3,11,No,7,3,Married,No
+45,Male,Media,20,16792,3,4,4,11,No,2,2,Married,No
+41,Female,Media,7,2778,2,4,3,1,Yes,2,4,Divorced,Yes
+28,Male,Research & Development,4,2154,2,3,3,0,Yes,1,4,Single,No
+36,Male,Research & Development,8,2088,2,2,3,7,No,3,2,Single,No
+30,Male,Sales,10,6578,3,3,3,1,No,10,3,Married,No
+34,Female,Research & Development,6,4381,3,1,3,1,No,2,4,Single,No
+45,Female,Media,9,5906,2,4,3,3,No,25,2,Married,No
+27,Male,Sales,7,4105,3,4,3,0,No,9,3,Single,No
+21,Male,Sales,2,2380,3,1,3,1,Yes,5,1,Single,No
+45,Female,Sales,5,4850,3,3,3,0,No,20,3,Single,No
+38,Male,Media,1,6553,3,3,3,0,No,2,4,Married,No
+29,Male,Sales,3,6931,3,4,3,0,No,20,2,Divorced,No
+28,Male,Sales,4,4898,3,1,3,1,No,7,3,Single,No
+40,Male,Banking,5,2018,1,1,3,1,No,9,4,Single,Yes

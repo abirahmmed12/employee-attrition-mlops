@@ -1,0 +1,8 @@
+[ 2025-11-27 14:35:45,718 ] 20 root - INFO - Data Ingestion method started
+[ 2025-11-27 14:35:45,718 ] 22 root - INFO - Reading the dataset from source
+[ 2025-11-27 14:35:45,719 ] 39 root - INFO - Exception occurred at data ingestion stage
+[ 2025-11-27 14:35:45,719 ] 51 root - ERROR - 
+Error occurred in Python script:
+→ File: /home/abir-ahmmed/projects/employee-attrition-mlops/src/components/data_ingestion.py
+→ Line number: 23
+→ Error message: [Errno 2] No such file or directory: 'data-source/employee_attrition.csv'

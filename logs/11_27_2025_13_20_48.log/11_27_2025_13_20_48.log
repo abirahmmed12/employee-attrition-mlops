@@ -1,0 +1,5 @@
+[ 2025-11-27 13:20:48,599 ] 51 root - ERROR - 
+Error occurred in Python script:
+→ File: /home/abir-ahmmed/projects/employee-attrition-mlops/test-logging-integration-app.py
+→ Line number: 9
+→ Error message: division by zero

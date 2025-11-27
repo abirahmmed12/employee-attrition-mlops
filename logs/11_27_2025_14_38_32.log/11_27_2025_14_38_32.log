@@ -1,0 +1,5 @@
+[ 2025-11-27 14:38:32,993 ] 20 root - INFO - Data Ingestion method started
+[ 2025-11-27 14:38:32,993 ] 22 root - INFO - Reading the dataset from source
+[ 2025-11-27 14:38:33,004 ] 26 root - INFO - Raw data is saved
+[ 2025-11-27 14:38:33,007 ] 29 root - INFO - Train test split is completed
+[ 2025-11-27 14:38:33,013 ] 33 root - INFO - Ingestion of the data is completed
